@@ -4,7 +4,7 @@ app    SCscramblegg.beansOnToast    =  beansOnToast
        email                        =  coreliuorg@gmail.com                                                                             
        emphasis                     =  15 
        rightInARow                  =  3
-       icon                         =  beansontoast.jpg 
+       icon                         =  beansOnToast/beansontoast.jpg 
        logoText                     =  Beans On Toast, Coreliu
        ordered                      =  always
        
