@@ -9,7 +9,7 @@ app    SCscramblegg/beansOnToast    =  beansOnToast
        ordered                      =  always
        
 photo beantins                      = Ask "Which beans would you like?"
-       url                          = tinnedbeans.jpg   
+       url                          = beansOnToast/tinnedbeans.jpg   
        
 photo  nosugarbeans                 =  Sugar-free for a person with diabetes                                                                          
        url                          =  nosugarbeans.jpg                                                                                              
