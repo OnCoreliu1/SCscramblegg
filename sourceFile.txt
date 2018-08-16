@@ -56,58 +56,6 @@ photo Parsley.salt                  = Add finishing touches and serve!
 
 -------------------------------------------------
 
-app    SCscramblegg                 =  BeansOnToast                                                                   
-       author                       =  OnCoreliu1                                                                                            
-       description                  =  How to make beans on toast                                                     
-       email                        =  coreliuorg@gmail.com                                                                             
-       emphasis                     =  15 
-       rightInARow                  =  3
-       icon                         =  beansontoast.jpg 
-       logoText                     =  Beans On Toast, Coreliu
-       ordered                      =  always
-
-photo beantins                      = Ask "Which beans would you like?"
-       url                          = tinnedbeans.jpg   
-       
-photo  nosugarbeans                 =  Sugar-free for a person with diabetes                                                                          
-       url                          =  nosugarbeans.jpg                                                                                              
-                                                                                                                                
-photo  lid.off                      = Pull up ring and remove lid
-       url                          = removelid2.jpg
-
-photo  beansinpan                   = Put beans into saucepan
-       url                          = beansinpan.jpg
-
-photo  rinse.beantin                = Rinse the tin
-       url                          = recycletin.jpg
-       
-photo  recycle.tin                  = Place in recycling bin
-       url                          = tininbin.jpg    
-
-photo  saucepan.low                 = Place saucepan on a low setting
-       url                          = lowheat2.jpg
-
-photo  stir.beans                   = Stir gently while they heat
-       url                          = stirbeans.jpg
-       
-photo  sourdough.loaf               = Take some fresh bread
-       url                          = sourdough.jpg
-
-photo  bread.toaster                = Put it in the toaster
-       url                          = breadintoaster.jpg
-
-photo  hotbeans                     = Keep stirring until hot, then turn off heat
-       url                          = hotbeans.jpg
-       
-photo  buttertoast                  = Quickly butter the toast
-       url                          = buttertoast.jpg
-
-photo  beansontoast                 = Place beans on toast and serve
-       url                          = beansontoast.jpg
-
-photo  beansontoast.yum             = Lovely thank you, yum yum!
-       url                          = yumyum.jpg
-       
 
        
 
