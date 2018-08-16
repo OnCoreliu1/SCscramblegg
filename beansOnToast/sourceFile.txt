@@ -12,32 +12,40 @@ photo beantins                      = Ask "Which beans would you like?"
        url                          = beansOnToast/tinnedbeans.jpg   
        
 photo  nosugarbeans                 =  Sugar-free for a person with diabetes                                                                          
-       url                          =  nosugarbeans.jpg                                                                                              
+       url                          =  beansOnToast/nosugarbeans.jpg                                                                                              
                                                                                                                                 
 photo  lid.off                      = Pull up ring and remove lid
-       url                          = removelid2.jpg
+       url                          = beansOnToast/removelid2.jpg
+
 photo  beansinpan                   = Put beans into saucepan
-       url                          = beansinpan.jpg
+       url                          = beansOnToast/beansinpan.jpg
+
 photo  rinse.beantin                = Rinse the tin
-       url                          = recycletin.jpg
+       url                          = beansOnToast/recycletin.jpg
        
 photo  recycle.tin                  = Place in recycling bin
-       url                          = tininbin.jpg    
+       url                          = beansOnToast/tininbin.jpg    
+
 photo  saucepan.low                 = Place saucepan on a low setting
-       url                          = lowheat2.jpg
+       url                          = beansOnToast/lowheat2.jpg
+
 photo  stir.beans                   = Stir gently while they heat
-       url                          = stirbeans.jpg
+       url                          = beansOnToast/stirbeans.jpg
        
 photo  sourdough.loaf               = Take some fresh bread
-       url                          = sourdough.jpg
+       url                          = beansOnToast/sourdough.jpg
+
 photo  bread.toaster                = Put it in the toaster
-       url                          = breadintoaster.jpg
+       url                          = beansOnToast/breadintoaster.jpg
+
 photo  hotbeans                     = Keep stirring until hot, then turn off heat
-       url                          = hotbeans.jpg
+       url                          = beansOnToast/hotbeans.jpg
        
 photo  buttertoast                  = Quickly butter the toast
-       url                          = buttertoast.jpg
+       url                          = beansOnToast/buttertoast.jpg
+
 photo  beansontoast                 = Place beans on toast and serve
-       url                          = beansontoast.jpg
+       url                          = beansOnToast/beansontoast.jpg
+
 photo  beansontoast.yum             = Lovely thank you, yum yum!
-url = yumyum.jpg
+       url                          = beansOnToast/yumyum.jpg
