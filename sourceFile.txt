@@ -1,4 +1,4 @@
-app    SCscramblegg                  =  Scrambled Eggs                                                                   
+app    SCscramblegg                 =  Scrambled Eggs                                                                   
        author                       =  OnCoreliu1                                                                                            
        description                  =  How to make scrambled eggs                                                     
        email                        =  coreliuorg@gmail.com                                                                             
