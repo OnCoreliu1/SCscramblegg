@@ -5,7 +5,7 @@ app    SCscramblegg                 =   Scrambled Eggs
        emphasis                     =  15 
        rightInARow                  =  3
        icon                         =  140.jpg 
-       logoText                     =  Scrambled Eggs, Coreliu
+       logoText                     =  How to scramble eggs, Coreliu
        ordered                      =  always
 
 photo Herb.spice                    = Check allergies and diet restrictions
@@ -29,7 +29,7 @@ photo  Frothy.eggs                  = Get eggs nice and frothy
 photo  Start.stir                   = Put frothy eggs in pan and start to stir
        url                          = 060.jpg
 
-photo  Bread.toaster                = Put bread in the toaster just after starting to stir the eggs in the pan
+photo  Bread.toaster                = Put bread in toaster just after starting to stir eggs in the pan
        url                          = 070.jpg
        
 photo  Keep.stirring                = Keep stirring the eggs or they'll stick and burn
