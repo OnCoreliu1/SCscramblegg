@@ -1,4 +1,4 @@
-app    SCscramblegg.beansOnToast   =  beansOnToast                                                                   
+app    SCscramblegg.beansOnToast    =  beansOnToast                                                                   
        author                       =  OnCoreliu1                                                                                            
        description                  =  How to make beans on toast                                                     
        email                        =  coreliuorg@gmail.com                                                                             
@@ -7,6 +7,7 @@ app    SCscramblegg.beansOnToast   =  beansOnToast
        icon                         =  beansOnToast/beansontoast.jpg 
        logoText                     =  Beans On Toast, Coreliu
        ordered                      =  always
+       musicSpeechVolume            =  200
        
 photo beantins                      = Ask "Which beans would you like?"
        url                          = beansOnToast/tinnedbeans.jpg   
