@@ -1,4 +1,4 @@
-app    SCscramblegg                 =   Scrambled Eggs                                                                   
+app    SCscramblegg                 =  Scrambled Eggs                                                                   
        author                       =  OnCoreliu1                                                                                            
        description                  =  How to make scrambled eggs                                                     
        email                        =  coreliuorg@gmail.com                                                                             
@@ -7,6 +7,7 @@ app    SCscramblegg                 =   Scrambled Eggs
        icon                         =  140.jpg 
        logoText                     =  How to scramble eggs, Coreliu
        ordered                      =  always
+       musicSpeechVolume            =  200
 
 photo Herb.spice                    = Check allergies and diet restrictions
        url                          = 135.jpg   
@@ -32,13 +33,13 @@ photo  Start.stir                   = Put frothy eggs in pan and start to stir
 photo  Bread.toaster                = Put bread in toaster just after starting to stir eggs in the pan
        url                          = 070.jpg
        
-photo  Keep.stirring                = Keep stirring the eggs or they'll stick and burn
+photo  Keep.stirring                = Keep stirring the eggs or they will stick and burn
        url                          = 080.jpg
 
 photo  Not.quite                    = Eggs not quite cooked but nearly done
        url                          = 090.jpg
        
-photo  Burnt.toast                  = Oh the toast is burnt, throw it away
+photo  Burnt.toast                  = Oh no, the toast is burnt, throw it away
        url                          = 100.jpg
        
 photo  Butter.toast                 = Butter the toast just before the eggs are cooked
@@ -47,7 +48,7 @@ photo  Butter.toast                 = Butter the toast just before the eggs are 
 photo  Eggs.cooked                  = When eggs look cooked, put them on buttered toast
        url                          = 120.jpg
        
-photo  Water.pan                    = Put water in the pan as soon as the eggs are out
+photo  Water.pan                    = Put water in pan as soon as eggs are out
        url                          = 130.jpg    
 
 photo Parsley.salt                  = Add finishing touches and serve!
