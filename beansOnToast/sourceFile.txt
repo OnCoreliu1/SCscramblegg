@@ -48,5 +48,5 @@ photo  buttertoast                  = Quickly butter the toast
 photo  beansontoast                 = Place beans on toast and serve
        url                          = beansOnToast/beansontoast.jpg
 
-photo  beansontoast.yum             = Lovely thank you, yum yum!
+photo  beansontoast.yum             = Lovely, thank you, yum yum!
        url                          = beansOnToast/yumyum.jpg
