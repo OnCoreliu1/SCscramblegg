@@ -24,13 +24,13 @@ photo  beansinpan                   = Put beans into saucepan
 photo  rinse.beantin                = Rinse the tin
        url                          = beansOnToast/recycletin.jpg
        
-photo  recycle.tin                  = Place in recycling bin
+photo  recycle.tin                  = Place tin in recycling bin
        url                          = beansOnToast/tininbin.jpg    
 
 photo  saucepan.low                 = Place saucepan on a low setting
        url                          = beansOnToast/lowheat2.jpg
 
-photo  stir.beans                   = Stir gently while they heat
+photo  stir.beans                   = Stir gently while beans heat
        url                          = beansOnToast/stirbeans.jpg
        
 photo  sourdough.loaf               = Take some fresh bread
