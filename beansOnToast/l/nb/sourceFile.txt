@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.nb  =  Bønner på toast
+       author                          =  OnCoreliu1
+       description                     =  Hvordan lage bønner på toast
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                  15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                 200
+       ordered                         =  always
+       rightInARow                     =                                                   3
+       language                        =  nb
+
+photo  beantins                        =  Spør "hvilke bønner vil du ha?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Sukkerfri for en person med diabetes
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Trekk opp ringen og fjern lokket
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Sett bønner i kasserolle
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Skyll tinnet
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Sett tinn i resirkuleringsplass
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Plasser kasserolle i lav innstilling
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Rør forsiktig mens bønner varme
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Ta litt ferskt brød
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Sett det i brødristeren
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Fortsett å røre til det er varmt, og slå av varmen
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Smør raskt ristet brød
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Plasser bønner på toast og server
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Nydelig, takk, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
