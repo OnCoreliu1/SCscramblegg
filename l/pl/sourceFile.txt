@@ -1,0 +1,56 @@
+app    SCscramblegg.l.pl  =  Jajecznica
+       author             =  OnCoreliu1
+       description        =  Jak zrobić jajecznicę
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                       15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                      200
+       ordered            =  always
+       rightInARow        =                                                                        3
+       language           =  pl
+
+photo  Herb.spice         =  Sprawdź alergie i ograniczenia dietetyczne
+       url                =  135.jpg
+
+photo  Heat.oil           =  Podgrzej trochę oleju na małym ogniu
+       url                =  010.jpg
+
+photo  Take.eggs          =  Weź trochę świeżych jaj
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Rozbić jajka w misce
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Ubij jajka i dodaj odrobinę mleka
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Dostać jajka ładne i spienione
+       url                =  050.jpg
+
+photo  Start.stir         =  Na patelnię ułożyć spienione jajka i zacząć mieszać
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Wkładamy chleb do tostera zaraz po rozpoczęciu mieszania jaj na patelni
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Ciągle mieszajcie jajka lub będą się trzymać i palić
+       url                =  080.jpg
+
+photo  Not.quite          =  Jajka niezupełnie ugotowane, ale prawie gotowe
+       url                =  090.jpg
+
+photo  Burnt.toast        =  O nie, tost jest spalony, wyrzuć go
+       url                =  100.jpg
+
+photo  Butter.toast       =  Masłem tosty tuż przed ugotowaniem jajek
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Gdy jajka wyglądają na ugotowane, połóż je na tostach z masłem
+       url                =  120.jpg
+
+photo  Water.pan          =  Wrzuć wodę na patelnię, gdy tylko jaja wyjdą
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Dodaj wykończenia i służcie!
+       url                =  140.jpg
