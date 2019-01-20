@@ -1,0 +1,56 @@
+app    SCscramblegg.l.de  =  Rührei
+       author             =  OnCoreliu1
+       description        =  Wie man Rührei macht
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                                   15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                                  200
+       ordered            =  always
+       rightInARow        =                                                                                    3
+       language           =  de
+
+photo  Herb.spice         =  Überprüfen Sie Allergien und Diätbeschränkungen
+       url                =  135.jpg
+
+photo  Heat.oil           =  Bei geringer Hitze etwas Öl erhitzen
+       url                =  010.jpg
+
+photo  Take.eggs          =  Nimm ein paar frische eier
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Eier in eine Schüssel geben
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Eier verquirlen und Milch dazugeben
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Holen Sie sich schöne und schaumige Eier
+       url                =  050.jpg
+
+photo  Start.stir         =  Schaumige Eier in die Pfanne geben und umrühren
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Legen Sie das Brot in den Toaster, nachdem Sie die Eier in der Pfanne gerührt haben
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Rühre die Eier weiter, sonst bleiben sie haften und brennen
+       url                =  080.jpg
+
+photo  Not.quite          =  Eier nicht ganz gekocht, aber fast fertig
+       url                =  090.jpg
+
+photo  Burnt.toast        =  Oh nein, der Toast ist verbrannt, wirf ihn weg
+       url                =  100.jpg
+
+photo  Butter.toast       =  Butter den Toast kurz bevor die Eier gekocht werden
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Wenn Eier gekocht aussehen, setzen Sie sie auf Butter Toast
+       url                =  120.jpg
+
+photo  Water.pan          =  Wasser in die Pfanne geben, sobald die Eier heraus sind
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Fügen Sie den letzten Schliff hinzu und servieren Sie!
+       url                =  140.jpg
