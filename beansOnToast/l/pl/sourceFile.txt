@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.pl  =  Fasolki na toście
+       author                          =  OnCoreliu1
+       description                     =  Jak zrobić fasolę na grzance
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                          15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                         200
+       ordered                         =  always
+       rightInARow                     =                                                           3
+       language                        =  pl
+
+photo  beantins                        =  Zapytaj "które fasole chcesz?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Bez cukru dla osoby chorej na cukrzycę
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Pociągnij pierścień i zdejmij pokrywkę
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Włóż fasolę do rondla
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Opłucz puszkę
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Umieść cynę w koszu na śmieci
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Umieścić rondel na niskim poziomie
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Delikatnie mieszać, podczas gdy ciepło fasoli
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Weź trochę świeżego chleba
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Włożyć to do tostera
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Mieszaj dalej, aż będzie gorąco, a następnie wyłącz ciepło
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Szybko masłem tosty
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Ułóż fasolę na grzance i podawaj
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Piękne, dziękuję, mniam mniam!
+       url                             =  beansOnToast/yumyum.jpg
