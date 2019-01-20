@@ -1,0 +1,56 @@
+app    SCscramblegg.l.ru  =  Яичница-болтунья
+       author             =  OnCoreliu1
+       description        =  Как сделать яичницу
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                       15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                      200
+       ordered            =  always
+       rightInARow        =                                                                        3
+       language           =  ru
+
+photo  Herb.spice         =  Проверить аллергию и ограничения диеты
+       url                =  135.jpg
+
+photo  Heat.oil           =  Нагреть немного масла на слабом огне
+       url                =  010.jpg
+
+photo  Take.eggs          =  Возьми свежие яйца
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Взломать яйца в миску
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Взбить яйца и добавить всплеск молока
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Получить яйца красивые и пенистые
+       url                =  050.jpg
+
+photo  Start.stir         =  Положить пенистые яйца в кастрюлю и начать перемешивать
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Положить хлеб в тостер сразу после начала размешивания яиц на сковороде
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Продолжайте помешивать яйца, или они будут прилипать и гореть
+       url                =  080.jpg
+
+photo  Not.quite          =  Яйца не совсем приготовленные, но почти готовые
+       url                =  090.jpg
+
+photo  Burnt.toast        =  О нет, тост сожжен, выбрось его
+       url                =  100.jpg
+
+photo  Butter.toast       =  Смазать тост перед приготовлением яиц
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Когда яйца выглядят приготовленными, положите их на тост с маслом
+       url                =  120.jpg
+
+photo  Water.pan          =  Положить воду в кастрюлю, как только яйца
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Добавить последние штрихи и служить!
+       url                =  140.jpg
