@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.cy  =  Ffa ar dost
+       author                          =  OnCoreliu1
+       description                     =  Sut i wneud ffa ar dost
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                            15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                           200
+       ordered                         =  always
+       rightInARow                     =                                             3
+       language                        =  cy
+
+photo  beantins                        =  Gofynnwch "pa ffa yr hoffech chi?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Siwgr di-dâl i berson â diabetes
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Tynnu i fyny ffoniwch a chael gwared ar gudd
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Rhowch ffa mewn sosban
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Rinsiwch y tun
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Gosod tun mewn bin ailgylchu
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Gosod sosban ar leoliad isel
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Cymysgwch yn ysgafn tra bod ffa yn gwresogi
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Cymerwch rywfaint o fara ffres
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Rhowch hi yn y tostiwr
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Cadwch droi nes boeth, yna diffodd gwres
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Gwynwch y tost yn gyflym
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Rhowch ffa ar dost a gweini
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Hyfryd, diolch, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
