@@ -1,0 +1,56 @@
+app    SCscramblegg.l.nl  =  Roerei
+       author             =  OnCoreliu1
+       description        =  Hoe roerei te maken
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                                           15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                                          200
+       ordered            =  always
+       rightInARow        =                                                                                            3
+       language           =  nl
+
+photo  Herb.spice         =  Controleer allergieën en dieetbeperkingen
+       url                =  135.jpg
+
+photo  Heat.oil           =  Verwarm wat olie op een laag vuurtje
+       url                =  010.jpg
+
+photo  Take.eggs          =  Neem wat verse eieren
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Kraak eieren in een kom
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Klop de eieren en voeg een scheut melk toe
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Eieren leuk en schuimig krijgen
+       url                =  050.jpg
+
+photo  Start.stir         =  Leg schuimige eieren in de pan en begin te roeren
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Doe het brood in de broodrooster net nadat je begint met het roeren van de eieren in de pan
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Blijf roeren met de eieren of ze blijven plakken en verbranden
+       url                =  080.jpg
+
+photo  Not.quite          =  Eieren niet helemaal gaar maar bijna klaar
+       url                =  090.jpg
+
+photo  Burnt.toast        =  Oh nee, de toast is verbrand, gooi het weg
+       url                =  100.jpg
+
+photo  Butter.toast       =  Boter de toast vlak voordat de eieren gaar zijn
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Als de eieren er gekookt uitzien, doe ze dan op beboterde toast
+       url                =  120.jpg
+
+photo  Water.pan          =  Zet water in de pan zodra de eieren uit zijn
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Voeg de finishing touch toe en serveer!
+       url                =  140.jpg
