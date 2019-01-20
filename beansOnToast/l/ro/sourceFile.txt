@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.ro  =  Fasole pe pâine prăjită
+       author                          =  OnCoreliu1
+       description                     =  Cum să faci fasole pe pâine prăjită
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                                15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                               200
+       ordered                         =  always
+       rightInARow                     =                                                                 3
+       language                        =  ro
+
+photo  beantins                        =  Întrebați "ce fasole doriți?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Fără zahăr pentru o persoană cu diabet zaharat
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Trageți inelul și scoateți capacul
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Puneți fasole în cratiță
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Clătiți recipientul
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Plasați staniu în recipientul de reciclare
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Așezați o cratiță la un nivel scăzut
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Se amestecă ușor în timp ce fasolea se încălzește
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Ia ceva pâine proaspătă
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Puneți-l în toaster
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Continuați să amestecați până se încălzește, apoi opriți căldura
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Repede untul de paine
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Puneți fasolea pe toast și serviți
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Frumos, multumesc, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
