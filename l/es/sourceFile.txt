@@ -1,0 +1,56 @@
+app    SCscramblegg.l.es  =  Huevos revueltos
+       author             =  OnCoreliu1
+       description        =  Como hacer huevos revueltos
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                                         15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                                        200
+       ordered            =  always
+       rightInARow        =                                                                                          3
+       language           =  es
+
+photo  Herb.spice         =  Consultar alergias y restricciones dietéticas.
+       url                =  135.jpg
+
+photo  Heat.oil           =  Calentar un poco de aceite a fuego lento
+       url                =  010.jpg
+
+photo  Take.eggs          =  Tomar unos huevos frescos
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Romper los huevos en un tazón
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Batir los huevos y añadir un chorrito de leche.
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Conseguir huevos agradables y espumosos
+       url                =  050.jpg
+
+photo  Start.stir         =  Pon los huevos espumosos en la sartén y comienza a revolver.
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Poner el pan en la tostadora justo después de comenzar a revolver los huevos en la sartén
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Sigue revolviendo los huevos o se pegarán y quemarán
+       url                =  080.jpg
+
+photo  Not.quite          =  Huevos no muy cocidos pero casi hechos.
+       url                =  090.jpg
+
+photo  Burnt.toast        =  Oh no, la tostada está quemada, tírala
+       url                =  100.jpg
+
+photo  Butter.toast       =  Mantequilla la tostada justo antes de que los huevos estén cocidos.
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Cuando los huevos se vean cocidos, póngalos sobre una tostada con mantequilla
+       url                =  120.jpg
+
+photo  Water.pan          =  Poner agua en la sartén tan pronto como los huevos estén fuera
+       url                =  130.jpg
+
+photo  Parsley.salt       =  ¡Agrega los toques finales y sirve!
+       url                =  140.jpg
