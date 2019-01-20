@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.es  =  Judías en tostadas
+       author                          =  OnCoreliu1
+       description                     =  Como hacer frijoles en pan tostado
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                               15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                              200
+       ordered                         =  always
+       rightInARow                     =                                                                3
+       language                        =  es
+
+photo  beantins                        =  Pregunta "¿qué frijoles te gustaría?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Sin azúcar para una persona con diabetes
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Levante el anillo y retire la tapa
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Poner los frijoles en una cacerola
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Enjuague la lata
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Colocar la lata en el contenedor de reciclaje
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Coloque la cacerola en una posición baja
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Revuelva suavemente mientras se calientan los frijoles.
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Toma un poco de pan fresco
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Ponlo en la tostadora
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Sigue revolviendo hasta que esté caliente, luego apaga el fuego
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Rápidamente mantequilla la tostada
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Colocar los frijoles en una tostada y servir
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Encantador, gracias, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
