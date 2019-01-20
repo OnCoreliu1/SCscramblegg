@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.it  =  Fagioli su pane tostato
+       author                          =  OnCoreliu1
+       description                     =  Come fare i fagioli sul pane tostato
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                                       15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                                      200
+       ordered                         =  always
+       rightInARow                     =                                                                        3
+       language                        =  it
+
+photo  beantins                        =  Chiedi "quali fagioli ti piacerebbe?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Senza zucchero per una persona con diabete
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Tira su l'anello e rimuovi il coperchio
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Mettere i fagioli in una casseruola
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Risciacquare la latta
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Posizionare lo stagno nel cestino
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Mettere la casseruola su un livello basso
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Mescolare delicatamente mentre i fagioli scaldano
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Prendi del pane fresco
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Metterlo nel tostapane
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Continua a mescolare fino a quando fa caldo, quindi disattiva il calore
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Burro veloce il pane tostato
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Mettere i fagioli sul pane tostato e servire
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Bello, grazie, gnam gnam!
+       url                             =  beansOnToast/yumyum.jpg
