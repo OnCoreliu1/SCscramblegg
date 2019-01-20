@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.ru  =  Бобы на тосте
+       author                          =  OnCoreliu1
+       description                     =  Как сделать бобы на тосте
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                         15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                        200
+       ordered                         =  always
+       rightInARow                     =                                                          3
+       language                        =  ru
+
+photo  beantins                        =  Спросите "какие бобы вы бы хотели?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Без сахара для человека с диабетом
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Подтянуть кольцо и снять крышку
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Положить фасоль в кастрюлю
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Промыть олово
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Поместите олово в мусорную корзину
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Поставить кастрюлю на низком уровне
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Осторожно перемешайте, пока бобы нагреваются
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Возьми свежий хлеб
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Положить его в тостер
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Продолжайте помешивать до горячего, затем выключите тепло
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Быстро намазать тост
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Положить бобы на тост и подавать
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Прекрасно, спасибо, ням ням!
+       url                             =  beansOnToast/yumyum.jpg
