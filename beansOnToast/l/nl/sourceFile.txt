@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.nl  =  Bonen op toast
+       author                          =  OnCoreliu1
+       description                     =  Hoe bonen op toast te maken
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                         15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                        200
+       ordered                         =  always
+       rightInARow                     =                                                          3
+       language                        =  nl
+
+photo  beantins                        =  Vraag "welke bonen zou je willen?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Suikervrij voor een persoon met diabetes
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Trek de ring omhoog en verwijder het deksel
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Doe de bonen in de pan
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Spoel het blik
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Plaats het blik in de prullenbak
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Plaats de pan op een lage stand
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Roer zachtjes terwijl de bonen warm worden
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Neem wat vers brood
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Zet het in de broodrooster
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Blijf roeren tot het heet is en zet dan de verwarming uit
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Bak snel de toast
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Plaats bonen op toast en serveer
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Heerlijk, dank je, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
