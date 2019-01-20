@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.fr  =  Haricots sur du pain grillé
+       author                          =  OnCoreliu1
+       description                     =  Comment faire des haricots sur du pain grillé
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                                    15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                                   200
+       ordered                         =  always
+       rightInARow                     =                                                                     3
+       language                        =  fr
+
+photo  beantins                        =  Demander "quels haricots voudriez-vous?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Sans sucre pour une personne atteinte de diabète
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Soulevez l'anneau et retirez le couvercle
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Mettre les haricots dans la casserole
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Rincer la boîte
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Placer la boîte dans le bac de recyclage
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Placer la casserole sur un réglage bas
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Remuer doucement pendant que les haricots chauffent
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Prendre du pain frais
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Mettez-le dans le grille-pain
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Continuez à remuer jusqu'à ce qu'il soit chaud, puis éteignez le feu
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Beurrer rapidement le pain grillé
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Déposer les haricots sur du pain grillé et servir
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Adorable, merci, miam miam!
+       url                             =  beansOnToast/yumyum.jpg
