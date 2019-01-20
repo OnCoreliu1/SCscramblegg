@@ -1,0 +1,56 @@
+app    SCscramblegg.l.pt  =  Ovos mexidos
+       author             =  OnCoreliu1
+       description        =  Como fazer ovos mexidos
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                       15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                      200
+       ordered            =  always
+       rightInARow        =                                                                        3
+       language           =  pt
+
+photo  Herb.spice         =  Verificar alergias e restrições alimentares
+       url                =  135.jpg
+
+photo  Heat.oil           =  Aquecer um pouco de óleo em fogo baixo
+       url                =  010.jpg
+
+photo  Take.eggs          =  Pegue alguns ovos frescos
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Quebrar os ovos em uma tigela
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Bata os ovos e adicione um pouco de leite
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Obter ovos bom e espumoso
+       url                =  050.jpg
+
+photo  Start.stir         =  Coloque os ovos fritos na panela e comece a mexer
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Coloque o pão na torradeira logo após começar a mexer os ovos na panela
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Continue mexendo os ovos ou eles vão ficar e queimar
+       url                =  080.jpg
+
+photo  Not.quite          =  Ovos não muito cozidos, mas quase pronto
+       url                =  090.jpg
+
+photo  Burnt.toast        =  Oh não, a torrada está queimada, jogue fora
+       url                =  100.jpg
+
+photo  Butter.toast       =  Manteiga a torrada pouco antes dos ovos serem cozidos
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Quando os ovos parecem cozidos, coloque-os na torrada com manteiga
+       url                =  120.jpg
+
+photo  Water.pan          =  Coloque a água na panela assim que os ovos estiverem fora
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Adicione toques finais e sirva!
+       url                =  140.jpg
