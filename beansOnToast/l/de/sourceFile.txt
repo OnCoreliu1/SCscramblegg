@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.de  =  Bohnen auf Toast
+       author                          =  OnCoreliu1
+       description                     =  Wie man Bohnen auf Toast macht
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                                  15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                                 200
+       ordered                         =  always
+       rightInARow                     =                                                                   3
+       language                        =  de
+
+photo  beantins                        =  Fragen Sie "Welche Bohnen möchten Sie?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Zuckerfrei für eine Person mit Diabetes
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Ring hochziehen und Deckel abnehmen
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Bohnen in einen Topf geben
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Spülen Sie die Dose aus
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Dose in den Papierkorb legen
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Stellen Sie den Topf auf eine niedrige Einstellung
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Rühren Sie vorsichtig um, während Bohnen heiß werden
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Nimm etwas frisches Brot
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Legen Sie es in den Toaster
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Rühren Sie weiter, bis es heiß ist, und schalten Sie die Hitze aus
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Butter schnell den Toast
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Bohnen auf Toast legen und servieren
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Schön, danke, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
