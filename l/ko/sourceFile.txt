@@ -1,0 +1,56 @@
+app    SCscramblegg.l.ko  =  스크램블 에그
+       author             =  OnCoreliu1
+       description        =  스크램블 드 에그 만드는 법
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                  15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                 200
+       ordered            =  always
+       rightInARow        =                                   3
+       language           =  ko
+
+photo  Herb.spice         =  알레르기 및 식단 제한 확인
+       url                =  135.jpg
+
+photo  Heat.oil           =  열을 가해 약간의 기름을 데우다.
+       url                =  010.jpg
+
+photo  Take.eggs          =  신선한 계란을 가져 가라.
+       url                =  020.jpg
+
+photo  Crack.eggs         =  계란을 그릇에 깨다
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  계란을 휘젓고 우유를 더한다.
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  기분 좋은 계란을 사다.
+       url                =  050.jpg
+
+photo  Start.stir         =  거품이 많은 계란을 냄비에 넣고 흔들기 시작하다.
+       url                =  060.jpg
+
+photo  Bread.toaster      =  냄비에 계란을 저어 먹기 시작한 직후에 토스터에 빵을 넣는다.
+       url                =  070.jpg
+
+photo  Keep.stirring      =  계란을 계속 저어 주거나 붙잡고 태울 것입니다.
+       url                =  080.jpg
+
+photo  Not.quite          =  계란은 거의 조리되지 않았지만 거의 완성되지 않았습니다.
+       url                =  090.jpg
+
+photo  Burnt.toast        =  오, 아니, 토스트가 불에 태워서 버려.
+       url                =  100.jpg
+
+photo  Butter.toast       =  계란이 조리되기 직전에 토스트를 버터로 바른다.
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  계란이 요리 될 때, 버터 토스트에 올려 놓으십시오.
+       url                =  120.jpg
+
+photo  Water.pan          =  계란이 나오 자마자 팬에 물을 넣어 라.
+       url                =  130.jpg
+
+photo  Parsley.salt       =  마무리 접촉을 추가하고 봉사하십시오!
+       url                =  140.jpg
