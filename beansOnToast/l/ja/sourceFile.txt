@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.ja  =  トーストに豆
+       author                          =  OnCoreliu1
+       description                     =  トーストに豆を作る方法
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                               15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                              200
+       ordered                         =  always
+       rightInARow                     =                                3
+       language                        =  ja
+
+photo  beantins                        =  「どの豆が好きですか」と尋ねます。
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  糖尿病患者のための無糖
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  リングを引き上げて蓋を外す
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  鍋に豆を入れる
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  錫を洗い流す
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  ごみ箱にスズを入れる
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  鍋を低い設定にする
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  豆が熱いうちにそっとかき混ぜる
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  焼きたてのパンをとる
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  トースターに入れて
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  熱くなるまで撹拌を続け、次に火を止める
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  乾杯のバター焼き
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  トーストに豆を入れて出す
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  素敵な、ありがとう、yum yum！
+       url                             =  beansOnToast/yumyum.jpg
