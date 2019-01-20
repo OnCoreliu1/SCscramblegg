@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.pt  =  Feijão na torrada
+       author                          =  OnCoreliu1
+       description                     =  Como fazer feijão no brinde
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                         15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                        200
+       ordered                         =  always
+       rightInARow                     =                                                          3
+       language                        =  pt
+
+photo  beantins                        =  Pergunte "de que grãos você gostaria?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Sem açúcar para uma pessoa com diabetes
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Puxe o anel e retire a tampa
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Coloque os feijões na panela
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Lave a lata
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Colocar lata em lixeira
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Coloque a panela em uma configuração baixa
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Mexa delicadamente enquanto os feijões esquentam
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Pegue um pouco de pão fresco
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Coloque na torradeira
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Continue mexendo até ficar quente, então desligue o calor
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Rapidamente manteiga o brinde
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Coloque o feijão na torrada e sirva
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Adorável, obrigado, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
