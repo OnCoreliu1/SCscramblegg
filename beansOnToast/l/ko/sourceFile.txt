@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.ko  =  콩에 토스트
+       author                          =  OnCoreliu1
+       description                     =  토스트에 콩을 만드는 법
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                               15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                              200
+       ordered                         =  always
+       rightInARow                     =                                3
+       language                        =  ko
+
+photo  beantins                        =  어떤 콩을 원하니? "
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  당뇨병 환자를위한 무설탕
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  링을 당겨 뚜껑을 제거하십시오.
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  스튜 냄비에 콩을 넣다.
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  주석을 헹구십시오.
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  재활용 통에 주석을 넣으십시오.
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  냄비를 낮은 곳에 두다.
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  콩 열을 가볍게 저어 준다.
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  신선한 빵을 가져 가라.
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  토스터기에 넣으시오.
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  뜨거울 때까지 저어 주면서 열을 끊으십시오.
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  토스트를 빨리 버터로 바른다.
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  토스트에 콩을 넣고 봉사한다.
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  사랑스러운, 고마워, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
