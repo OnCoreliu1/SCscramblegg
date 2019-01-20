@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.tr  =  Tost ekmeği
+       author                          =  OnCoreliu1
+       description                     =  Tost fasulyesi nasıl yapılır
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                              15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                             200
+       ordered                         =  always
+       rightInARow                     =                                                               3
+       language                        =  tr
+
+photo  beantins                        =  "Hangi fasulyeyi istersin?" diye sor.
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Diyabetli bir kişi için şekersiz
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Halkayı yukarı çekin ve kapağı çıkarın
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Fasulyeyi tencereye koyun
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Tenekeyi durulamak
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Geri dönüşüm kutusuna teneke yerleştirin
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Tencereyi alçak bir ayara koyun
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Fasulyeleri ısıtırken hafifçe karıştırın
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Biraz taze ekmek al
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Ekmek kızartma makinesine koy
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Sıcak olana kadar karıştırmaya devam edin, sonra ısıyı kapatın
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Hızlıca kızarmış ekmek tereyağı
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Fasulyeyi tost üzerine koyun ve servis yapın
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Sevimli, teşekkür ederim, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
