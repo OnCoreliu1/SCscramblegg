@@ -1,0 +1,53 @@
+app    SCscramblegg.beansOnToast.l.is  =  Baunir á ristuðu brauði
+       author                          =  OnCoreliu1
+       description                     =  Hvernig á að gera baunir á ristuðu brauði
+       email                           =  coreliuorg@gmail.com
+       emphasis                        =                                                                 15
+       icon                            =  beansOnToast/beansontoast.jpg
+       logoText                        =  Beans On Toast, Coreliu
+       musicSpeechVolume               =                                                                200
+       ordered                         =  always
+       rightInARow                     =                                                                  3
+       language                        =  is
+
+photo  beantins                        =  Spyrðu "hvaða baunir viltu?"
+       url                             =  beansOnToast/tinnedbeans.jpg
+
+photo  nosugarbeans                    =  Sykurlaus fyrir einstakling með sykursýki
+       url                             =  beansOnToast/nosugarbeans.jpg
+
+photo  lid.off                         =  Taktu upp hringinn og fjarlægðu lokið
+       url                             =  beansOnToast/removelid2.jpg
+
+photo  beansinpan                      =  Setjið baunir í pottinn
+       url                             =  beansOnToast/beansinpan.jpg
+
+photo  rinse.beantin                   =  Skola tennuna
+       url                             =  beansOnToast/recycletin.jpg
+
+photo  recycle.tin                     =  Setjið tini í ruslpappír
+       url                             =  beansOnToast/tininbin.jpg
+
+photo  saucepan.low                    =  Setjið pottinn í lágu stillingu
+       url                             =  beansOnToast/lowheat2.jpg
+
+photo  stir.beans                      =  Hrærið varlega meðan baunir hita
+       url                             =  beansOnToast/stirbeans.jpg
+
+photo  sourdough.loaf                  =  Taktu nokkuð ferskt brauð
+       url                             =  beansOnToast/sourdough.jpg
+
+photo  bread.toaster                   =  Settu það í brauðristinn
+       url                             =  beansOnToast/breadintoaster.jpg
+
+photo  hotbeans                        =  Haltu áfram að hræra þar til það er heitt og slökktu síðan á hita
+       url                             =  beansOnToast/hotbeans.jpg
+
+photo  buttertoast                     =  Smjörðu skyndibitann fljótt
+       url                             =  beansOnToast/buttertoast.jpg
+
+photo  beansontoast                    =  Settu baunir á brauð og þjóna
+       url                             =  beansOnToast/beansontoast.jpg
+
+photo  beansontoast.yum                =  Yndislegt, takk, yum yum!
+       url                             =  beansOnToast/yumyum.jpg
