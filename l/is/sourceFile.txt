@@ -1,0 +1,56 @@
+app    SCscramblegg.l.is  =  Hrærð egg
+       author             =  OnCoreliu1
+       description        =  Hvernig á að gera spæna egg
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                              15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                             200
+       ordered            =  always
+       rightInARow        =                                                               3
+       language           =  is
+
+photo  Herb.spice         =  Athugaðu ofnæmi og mataræði
+       url                =  135.jpg
+
+photo  Heat.oil           =  Hita smá olíu á lágum hita
+       url                =  010.jpg
+
+photo  Take.eggs          =  Taktu nokkrar ferskar egg
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Sprunga egg í skál
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Whisk egg og bæta skvetta af mjólk
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Fá egg gott og frothy
+       url                =  050.jpg
+
+photo  Start.stir         =  Setjið frothy egg í pönnu og farðu að hræra
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Setjið brauð í brauðrist rétt eftir að hafa hrærið egg í pönnu
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Haltu áfram að hræra eggin eða haltu þeim og brenna
+       url                =  080.jpg
+
+photo  Not.quite          =  Egg ekki alveg soðin en næstum búið
+       url                =  090.jpg
+
+photo  Burnt.toast        =  Ó nei, ristað brauðið er brennt, kastaðu því í burtu
+       url                =  100.jpg
+
+photo  Butter.toast       =  Smjörðu ristuðu brauði rétt áður en eggin eru soðin
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Þegar eggin eru soðin, setjið þau á smjörsteinn
+       url                =  120.jpg
+
+photo  Water.pan          =  Setjið vatn í pönnu um leið og eggin eru út
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Bæta við klára snertir og þjóna!
+       url                =  140.jpg
