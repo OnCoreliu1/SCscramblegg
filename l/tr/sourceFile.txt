@@ -1,0 +1,56 @@
+app    SCscramblegg.l.tr  =  Omlet
+       author             =  OnCoreliu1
+       description        =  Çırpılmış yumurta yapmak nasıl
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                                         15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                                        200
+       ordered            =  always
+       rightInARow        =                                                                                          3
+       language           =  tr
+
+photo  Herb.spice         =  Alerjileri ve diyet kısıtlamalarını kontrol edin
+       url                =  135.jpg
+
+photo  Heat.oil           =  Bir miktar düşük ısıda biraz yağ ısıtın
+       url                =  010.jpg
+
+photo  Take.eggs          =  Biraz taze yumurta al
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Bir kaseye yumurta kırmak
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Yumurtaları çırpın ve bir bardak süt ekleyin
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Yumurtaları güzel ve köpüklü olsun
+       url                =  050.jpg
+
+photo  Start.stir         =  Köpüklü yumurtaları tavaya koyun ve karıştırmaya başlayın
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Tavada yumurta karıştırmaya başladıktan hemen sonra ekmek kızartma makinesine ekmek koyun
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Yumurtaları karıştırmaya devam et yoksa yapışır ve yanarlar
+       url                =  080.jpg
+
+photo  Not.quite          =  Tamamen pişmiş yumurta değil, neredeyse yapılır
+       url                =  090.jpg
+
+photo  Burnt.toast        =  Oh hayır, kızarmış ekmek yanmış, at gitsin
+       url                =  100.jpg
+
+photo  Butter.toast       =  Yumurtalar pişirilmeden hemen önce kızarmış ekmek tereyağı
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Yumurtalar pişmiş göründüğünde, tereyağlı tost
+       url                =  120.jpg
+
+photo  Water.pan          =  Yumurtalar çıkarılmaz tavaya su koyun
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Son rötuşları ekleyin ve servis yapın!
+       url                =  140.jpg
