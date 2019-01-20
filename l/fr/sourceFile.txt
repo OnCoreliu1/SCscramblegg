@@ -1,0 +1,56 @@
+app    SCscramblegg.l.fr  =  Oeufs brouillés
+       author             =  OnCoreliu1
+       description        =  Comment faire des oeufs brouillés
+       email              =  coreliuorg@gmail.com
+       emphasis           =                                                                                                   15
+       icon               =  140.jpg
+       logoText           =  How to scramble eggs, Coreliu
+       musicSpeechVolume  =                                                                                                  200
+       ordered            =  always
+       rightInARow        =                                                                                                    3
+       language           =  fr
+
+photo  Herb.spice         =  Vérifier les allergies et les restrictions alimentaires
+       url                =  135.jpg
+
+photo  Heat.oil           =  Faire chauffer de l'huile à feu doux
+       url                =  010.jpg
+
+photo  Take.eggs          =  Prendre des œufs frais
+       url                =  020.jpg
+
+photo  Crack.eggs         =  Casser des œufs dans un bol
+       url                =  030.jpg
+
+photo  Whisk.eggs         =  Fouetter les œufs et ajouter un peu de lait
+       url                =  040.jpg
+
+photo  Frothy.eggs        =  Obtenir des œufs bien mousseux
+       url                =  050.jpg
+
+photo  Start.stir         =  Mettre les œufs mousseux dans la casserole et commencer à remuer
+       url                =  060.jpg
+
+photo  Bread.toaster      =  Mettre le pain dans le grille-pain juste après avoir commencé à mélanger les œufs dans la casserole
+       url                =  070.jpg
+
+photo  Keep.stirring      =  Continuez à remuer les œufs ou ils vont coller et brûler
+       url                =  080.jpg
+
+photo  Not.quite          =  Oeufs pas assez cuits mais presque cuits
+       url                =  090.jpg
+
+photo  Burnt.toast        =  Oh non, le pain est brûlé, jetez-le
+       url                =  100.jpg
+
+photo  Butter.toast       =  Beurre le pain grillé juste avant la cuisson des œufs
+       url                =  110.jpg
+
+photo  Eggs.cooked        =  Quand les œufs ont l'air cuits, mettez-les sur du pain grillé beurré
+       url                =  120.jpg
+
+photo  Water.pan          =  Mettre de l'eau dans la casserole dès que les œufs sont sortis
+       url                =  130.jpg
+
+photo  Parsley.salt       =  Ajouter des touches de finition et servir!
+       url                =  140.jpg
