@@ -7,7 +7,8 @@ app    SCscramblegg                 =  Scrambled Eggs
        icon                         =  140.jpg 
        logoText                     =  How to scramble eggs, Coreliu
        ordered                      =  always
-       musicSpeechVolume            =  200
+       musicSpeechVolume            =  250
+       maxImages                    =  4
 
 photo Herb.spice                    = Check allergies and diet restrictions
        url                          = 135.jpg   
