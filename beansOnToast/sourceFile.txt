@@ -30,7 +30,7 @@ photo  recycle.tin                  = Place tin in recycling bin
 photo  saucepan.low                 = Place saucepan on a low setting
        url                          = beansOnToast/lowheat2.jpg
 
-photo  stir.beans                   = Stir gently while beans heat
+photo  stir.beans                   = Stir gently to heat
        url                          = beansOnToast/stirbeans.jpg
        
 photo  sourdough.loaf               = Take some fresh bread
